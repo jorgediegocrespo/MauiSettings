@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiSettings", "MauiSettings\MauiSettings.csproj", "{C615AE2C-3496-4153-904D-FCCCAFADE8B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		DebugDevelopment|Any CPU = DebugDevelopment|Any CPU
+		DebugPreproduction|Any CPU = DebugPreproduction|Any CPU
+		ReleaseDevelopment|Any CPU = ReleaseDevelopment|Any CPU
+		ReleasePreproduction|Any CPU = ReleasePreproduction|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.DebugDevelopment|Any CPU.ActiveCfg = DebugDevelopment|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.DebugDevelopment|Any CPU.Build.0 = DebugDevelopment|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.DebugPreproduction|Any CPU.ActiveCfg = DebugPreproduction|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.DebugPreproduction|Any CPU.Build.0 = DebugPreproduction|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.ReleaseDevelopment|Any CPU.ActiveCfg = ReleaseDevelopment|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.ReleaseDevelopment|Any CPU.Build.0 = ReleaseDevelopment|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.ReleasePreproduction|Any CPU.ActiveCfg = ReleasePreproduction|Any CPU
+		{C615AE2C-3496-4153-904D-FCCCAFADE8B2}.ReleasePreproduction|Any CPU.Build.0 = ReleasePreproduction|Any CPU
+	EndGlobalSection
+EndGlobal
